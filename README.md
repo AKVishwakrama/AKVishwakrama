@@ -1,8 +1,9 @@
 Hi! I'm **Amit Vishwakarma**
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=35&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=500&lines=Amit+Vishwakarma;IoT+Specialization+Student;Full+Stack+%2B+IoT+Developer;Java+%7C+Spring+Boot+%7C+ESP32+%7C+AWS;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2800&pause=800&color=00F4FF&center=true&vCenter=true&width=650&lines=Amit+Vishwakarma;IoT+Specialization+Student;Full+Stack+%2B+IoT+Developer;Java+%7C+Spring+Boot+%7C+ESP32+%7C+AWS;Welcome+to+my+GitHub!" />
 </h1>
+
 
 <br>
 
@@ -159,6 +160,9 @@ UI/UX           ██████░░░░░░ 50%
   </a>
   <a href="https://www.linkedin.com/in/amit-vishwakarma-7134a133a/">
     <img src="https://tse2.mm.bing.net/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="45"/>
+  </a>
+   <a href="https://www.instagram.com/vishwa_amit07/">
+    <img src="https://tse3.mm.bing.net/th/id/OIP.cum2Xnsi7c5JaZdWfASjigHaHa?w=820&h=820&rs=1&pid=ImgDetMain&o=7&rm=3" height="45"/>
   </a>
 </p>
 
