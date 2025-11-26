@@ -4,9 +4,7 @@ Hi! I'm **Amit Vishwakarma**
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2800&pause=800&color=00F4FF&center=true&vCenter=true&width=650&lines=Amit+Vishwakarma;IoT+Specialization+Student;Full+Stack+%2B+IoT+Developer;Java+%7C+Spring+Boot+%7C+ESP32+%7C+AWS;Welcome+to+my+GitHub!" />
 </h1>
 
-
 <br>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/AKV-00E5FF?style=for-the-badge&logo=github&logoColor=black" height="50"/>
