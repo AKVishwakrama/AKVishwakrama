@@ -118,6 +118,19 @@ UI/UX           ██████░░░░░░ 50%
 **Preview:**  
 ![GEMCAM](https://via.placeholder.com/900x400.png?text=GEMCAM+AI+System)
 
+## *Event Management System with QR-Based Entry**
+A Java-based event management platform that handles event registration, generates QR code tickets, and validates entry at venues.
+Features:
+
+-Create and manage multiple events
+-Register attendees and generate QR tickets
+-Validate QR codes at event entrance
+-Track attendance and revenue
+-Send event reminders
+-Generate detailed reports
+
+**Tech Stack:** Java, SHA-256 Encryption, IntelliJ IDEA
+
 ---
 
 ## 🔹 Other Works
