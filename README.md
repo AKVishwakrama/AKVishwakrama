@@ -122,12 +122,12 @@ UI/UX           ██████░░░░░░ 50%
   A Java-based event management platform that handles event registration, generates QR code tickets, and validates entry at venues.
 
 **Features:**
--Create and manage multiple events
--Register attendees and generate QR tickets
--Validate QR codes at event entrance
--Track attendance and revenue
--Send event reminders
--Generate detailed reports
+- Create and manage multiple events
+- Register attendees and generate QR tickets
+- Validate QR codes at event entrance
+- Track attendance and revenue
+- Send event reminders
+- Generate detailed reports
 
 **Tech Stack:** Java, SHA-256 Encryption, IntelliJ IDEA
 
@@ -170,10 +170,10 @@ UI/UX           ██████░░░░░░ 50%
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/amit-vishwakarma-7134a133a/">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="45"/>
+    <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/linkedin-dark-theme.jpg" height="45"/>
   </a>
    <a href="https://www.instagram.com/vishwa_amit07/">
-    <img src="https://tse3.mm.bing.net/th/id/OIP.cum2Xnsi7c5JaZdWfASjigHaHa?w=820&h=820&rs=1&pid=ImgDetMain&o=7&rm=3" height="45"/>
+    <img src="https://as2.ftcdn.net/v2/jpg/04/47/16/81/1000_F_447168164_Wagm0faZooBeWQ9mMdrw0JUob9urmibA.jpg" height="45"/>
   </a>
 </p>
 
