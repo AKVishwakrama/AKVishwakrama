@@ -10,7 +10,7 @@ Hi! I'm **Amit Vishwakarma**
   <img src="https://img.shields.io/badge/AKV-00E5FF?style=for-the-badge&logo=github&logoColor=black" height="50"/>
 </p>
 
-<h3 align="center">“Building real-world solutions with IoT + Cloud + Full Stack Development”</h3>
+<h3 align="center">"Building real-world solutions with IoT + Cloud + Full Stack Development"</h3>
 
 ---
 
@@ -80,7 +80,7 @@ UI/UX           ██████░░░░░░ 50%
 
 ---
 
-# 🌾 Featured Projects (Professional Cards)
+# 🌾 Featured Projects
 
 ## 🔹 **Agro Supply Management System**
 > Helping farmers get fair crop prices using technology.
@@ -98,6 +98,53 @@ UI/UX           ██████░░░░░░ 50%
 
 ---
 
+## 🔹 **EventQR Pro — Smart Event Ticketing System**
+>  Event management with QR validation
+
+**Tech Stack:** Java REST API, PostgreSQL , QRCode.js, Vanilla JavaScript,HTML,CSS
+
+**Key Features:**
+- 🎫 Real-time QR code generation with SHA-256 encryption
+- ✅ Instant entry validation (prevents duplicate check-ins)
+- 📊 Live analytics dashboard (registrations, revenue, attendance rates)
+- 📧 Event reminders and notifications
+- 💳 Multiple ticket types (VIP, Standard, Student)
+- 📱 Responsive design (works on all devices)
+- ☁️ AWS deployment (Free Tier) with HTTPS
+
+**Architecture:**
+- Frontend: S3 + CloudFront (HTTPS enabled)
+- Backend: Java HttpServer on EC2 (REST API with 8 endpoints)
+- Database: PostgreSQL on RDS with foreign key constraints
+- Security: PreparedStatements (SQL injection prevention), CORS handling
+
+**Highlights:**
+- Generates scannable QR codes (300x300px with high error correction)
+- Booking ID format: `REG-1734567890-ABC123` (timestamp + UUID for uniqueness)
+- Orange-black premium theme with smooth animations
+- Download tickets as images & print functionality
+
+**Real-World Use Cases:**
+- Tech conferences at India Habitat Centre
+- Music festivals (NH7 Weekender, Sunburn)
+- College events and workshops
+- Sports events and marathons
+
+**What I Learned:**
+- Three-tier cloud architecture on AWS
+- REST API design patterns
+- Database optimization with indexes
+- Real-time data synchronization
+- QR code cryptography with SHA-256
+
+**Preview:**  
+![EventQR System](<img width="1907" height="1071" alt="Screenshot 2025-12-19 212523" src="https://github.com/user-attachments/assets/05352250-dc79-47ee-8fb2-12ade96795b0" />
+
+
+📂 [GitHub Repo](https://github.com/AKVishwakrama/QR_Project)
+
+---
+
 ## 🔹 **ESP32 Health Monitoring System**
 > Real-time IoT health dashboard with multi-sensor integration.
 
@@ -110,26 +157,18 @@ UI/UX           ██████░░░░░░ 50%
 ---
 
 ## 🔹 **GEMCAM AI — ESP32-CAM + Gemini**
-- Captures image  
-- Sends to Gemini for AI analysis  
-- Displays result on OLED  
-- Flash control + animations  
+> AI-powered image analysis with ESP32-CAM and Google Gemini
+
+**Features:**
+- Captures image with ESP32-CAM
+- Sends to Gemini API for AI analysis  
+- Displays result on OLED screen
+- Flash control + smooth animations  
+
+**Tech:** ESP32-CAM, Google Gemini API, OLED Display, Arduino IDE
 
 **Preview:**  
 ![GEMCAM](https://via.placeholder.com/900x400.png?text=GEMCAM+AI+System)
-
-## 🔹 **Event Management System with QR-Based Entry**
-  A Java-based event management platform that handles event registration, generates QR code tickets, and validates entry at venues.
-
-**Features:**
-- Create and manage multiple events
-- Register attendees and generate QR tickets
-- Validate QR codes at event entrance
-- Track attendance and revenue
-- Send event reminders
-- Generate detailed reports
-
-**Tech Stack:** Java, SHA-256 Encryption, IntelliJ IDEA
 
 ---
 
