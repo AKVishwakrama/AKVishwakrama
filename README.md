@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Amit Vishwakarma
-
-### AWS Certified | Full-Stack Developer | IoT Enthusiast
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amit+Vishwakarma;AWS+Certified+Cloud+Practitioner;Full-Stack+%2B+Serverless+Developer;Building+Production-Ready+Apps;React+%7C+AWS+Lambda+%7C+Spring+Boot;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+</h1>
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7a1450258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7134a133a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00C7B7?style=for-the-badge&logo=github)](https://github.com/AKVishwakrama)
 
 *Building production-ready serverless applications and IoT solutions*
@@ -21,7 +21,7 @@
 
 Query your AWS infrastructure using natural language commands. Built to demonstrate practical cloud architecture beyond certification theory.
 
-**Live Demo:** [Try it here →](https://aws-voice-resource-manager.netlify.app/)
+**Live Demo:** [Try it here →](https://your-netlify-url.netlify.app)
 
 ```
 Tech Stack: React • AWS Lambda • Python • API Gateway • Boto3
@@ -152,9 +152,9 @@ Git/GitHub • Docker • CI/CD • AWS CLI • PlatformIO • Maven • npm
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7a1450258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7134a133a/)
 [![Twitter](https://img.shields.io/badge/Twitter-@AmitVishwa38404-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/AmitVishwa38404)
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=for-the-badge&logo=gmail)](mailto:amit2315vishwakarma@gmail.com)
 
 **Open to:** Internship Opportunities • Open Source Collaboration • Tech Discussions
 
