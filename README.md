@@ -154,7 +154,7 @@ Git/GitHub • Docker • CI/CD • AWS CLI • PlatformIO • Maven • npm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7134a133a/)
 [![Twitter](https://img.shields.io/badge/Twitter-@AmitVishwa38404-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/AmitVishwa38404)
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=for-the-badge&logo=gmail)](mailto:amit2315vishwakarma@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amit2315vishwakarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:amit2315vishwakarma@gmail.com)
 
 **Open to:** Internship Opportunities • Open Source Collaboration • Tech Discussions
 
