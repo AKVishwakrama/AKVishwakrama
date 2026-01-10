@@ -21,7 +21,7 @@
 
 Query your AWS infrastructure using natural language commands. Built to demonstrate practical cloud architecture beyond certification theory.
 
-**Live Demo:** [Try it here →](https://your-netlify-url.netlify.app)
+**Live Demo:** [Try it here →](https://aws-voice-resource-manager.netlify.app/)
 
 ```
 Tech Stack: React • AWS Lambda • Python • API Gateway • Boto3
