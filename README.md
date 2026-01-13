@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🎤 [AWS Voice Manager](https://github.com/AKVishwakrama/aws-voice-manager) 
 **Voice-Controlled Serverless AWS Resource Manager** • *Jan 2026*
