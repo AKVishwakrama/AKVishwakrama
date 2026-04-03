@@ -6,7 +6,7 @@
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-vishwakarma-7134a133a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00C7B7?style=for-the-badge&logo=github)](https://github.com/AKVishwakrama)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00C7B7?style=for-the-badge&logo=github)](https://amit-portfolio-site-ten.vercel.app/)
 
 *Building production-ready serverless applications and IoT solutions*
 
