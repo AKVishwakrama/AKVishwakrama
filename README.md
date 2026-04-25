@@ -63,6 +63,41 @@ Cloud: AWS (EC2, RDS, S3, CloudFront) with HTTPS
 
 ---
 
+### 🛠️ [NexaWorks-Onboarding-Platform](https://github.com/AKVishwakrama/NexaWorks-Onboarding-Projec)  
+**Streamline [NexaWorks] Employee Onboarding System** • *Apr 2026*  
+
+A comprehensive platform to simplify and automate the employee onboarding process for HR teams, managers, and employees.  
+
+**Problem Solved:**  
+Employees often face challenges such as delays in document verification, lack of personalized attention during onboarding, and confusion about assigned tasks. HR teams struggle with decision-making during critical times like layoffs or restructuring due to insufficient data insights. This platform addresses these issues by streamlining processes and providing actionable insights.  
+
+**Solution:**  
+The platform offers role-specific dashboards for HR, managers, and employees, ensuring a seamless onboarding experience. It integrates task management, document uploads, and real-time progress tracking. Additionally, it includes features like one-on-one meeting scheduling, automated reminder emails for pending tasks, and centralized communication to keep all stakeholders aligned.  
+
+**Key Features:**  
+- 🗂️ Role-based dashboards for HR, managers, and employees  
+- 📄 Document upload and verification system  
+- ✅ Task assignment and progress tracking  
+- 🔔 Automated reminder emails for pending tasks  
+- 🗓️ One-on-one meeting scheduling for personalized onboarding  
+- 💬 Centralized communication for seamless collaboration  
+- 🔒 Secure authentication and role-based access control  
+- 📊 Analytics for onboarding progress and bottlenecks
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d376d27-323e-4f89-bb4c-3406be677fff" 
+       width="700"/>
+</p>
+
+
+**Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS, Vite  
+- **Backend:** Spring Boot, Java  
+- **AI Service:** Python (Flask), Machine Learning Models  
+- **Database:** PostgreSQL
+  
+
+
 ### 🌾 [Agro Supply Chain System](https://github.com/AKVishwakrama/agro-supply)
 **Farmer-to-Market Platform** • *Ongoing*
 
@@ -81,6 +116,7 @@ Stack: Spring Boot • PostgreSQL • React • REST API • Maven
 **Impact:** Helping farmers get up to 30% better prices by reducing supply chain intermediaries.
 
 ---
+
 
 ### 📡 [ESP32 IoT Health Monitor](https://github.com/AKVishwakrama/esp32-health)
 **Real-Time Multi-Sensor Dashboard** • *Nov 2024*
