@@ -84,7 +84,7 @@ The platform offers role-specific dashboards for HR, managers, and employees, en
 - 🔒 Secure authentication and role-based access control  
 - 📊 Analytics for onboarding progress and bottlenecks
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/8d376d27-323e-4f89-bb4c-3406be677fff" 
        width="700"/>
 </p>
