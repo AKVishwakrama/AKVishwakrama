@@ -63,7 +63,7 @@ Cloud: AWS (EC2, RDS, S3, CloudFront) with HTTPS
 
 ---
 
-### 🛠️ [NexaWorks-Onboarding-Platform](https://github.com/AKVishwakrama/NexaWorks-Onboarding-Projec)  
+### 🛠️ [NexaWorks-Onboarding-Platform](https://github.com/AKVishwakrama/NEXAWORKS-Onboarding-Workforce-Platform) 
 **Streamline [NexaWorks] Employee Onboarding System** • *Apr 2026*  
 
 A comprehensive platform to simplify and automate the employee onboarding process for HR teams, managers, and employees.  
