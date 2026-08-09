@@ -16,6 +16,65 @@
 
 ##  Featured Projects
 
+### 🍔 [Gabba Restaurant](https://gababite.com)
+
+**Production Restaurant Ordering Platform** • *Aug 2026*
+
+A full-stack restaurant ordering platform deployed on AWS with real-world authentication, online payments, WhatsApp notifications, managed PostgreSQL, reverse proxy configuration, HTTPS, and production process management.
+
+**Live Demo:** [Visit Gabba Restaurant →](https://gababite.com/)
+
+```
+Frontend: React • Vite • Axios • React Router
+Backend: Node.js • Express.js • REST API • JWT
+Database: PostgreSQL • Neon
+Cloud: AWS EC2 • Ubuntu • Nginx • PM2 • Let's Encrypt
+Integrations: Razorpay • Twilio WhatsApp
+```
+
+**Key Features:**
+
+- 🔐 JWT-based user registration and authentication with bcrypt password hashing
+- 🍔 Dynamic restaurant menu with categories, pricing, availability, and food images
+- 🛒 Persistent shopping cart with quantity management
+- 📦 Complete order placement and order persistence in PostgreSQL
+- 💳 Cash on Delivery and Razorpay online payment integration
+- 📱 WhatsApp order/bill notifications using Twilio
+- 👤 Customer authentication with protected API routes
+- 👨‍💼 Admin APIs for restaurant metrics and management
+- 🌐 Production deployment using AWS EC2, Nginx, PM2, and HTTPS
+- 🗄️ Managed PostgreSQL database hosted on Neon
+
+**Production Architecture:**
+
+```text
+Customer Browser
+      |
+      | HTTPS
+      v
+gababite.com
+      |
+      v
+Nginx Reverse Proxy
+      |
+      +----------------------+
+      |                      |
+      v                      v
+React Production Build    Node.js/Express
+                             |
+                    +--------+--------+
+                    |        |        |
+                    v        v        v
+                  Neon    Razorpay  Twilio
+                PostgreSQL Payments WhatsApp
+```
+
+**What makes it unique:** This project goes beyond local full-stack development by implementing the complete journey from application development to real cloud deployment, including Linux server administration, Nginx reverse proxying, HTTPS, PM2 process management, managed PostgreSQL, authentication, payment processing, and third-party communication APIs.
+
+**Real-world use case:** Designed for restaurants, cafes, cloud kitchens, and local food businesses that need an online ordering platform with customer authentication, payments, and automated order communication.
+
+---
+
 ### 🎤 [AWS Voice Manager](https://github.com/AKVishwakrama/aws-voice-manager) 
 **Voice-Controlled Serverless AWS Resource Manager** • *Jan 2026*
 
